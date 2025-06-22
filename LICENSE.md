@@ -1,5 +1,4 @@
-Essentials+ License
-Created by stanlxie and HealiX_YT
+Essentials+ License - created by stanlxie and HealiX_YT
 
 What you are allowed to do:
 
